@@ -6,7 +6,7 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export',
-  // Adjust these values based on your GitHub username and repository name
+  // Configuration for GitHub Pages
   basePath: '/verde-vista',
   assetPrefix: '/verde-vista/',
 }
